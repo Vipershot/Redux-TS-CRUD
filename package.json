@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mongodb": "^5.0.0",
+    "react-redux": "^8.0.5"
+  }
+}
